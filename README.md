@@ -1,10 +1,8 @@
 ### Hi, I'm Davide 👋
 
-I'm fullstack react engineer with more than 6 years of experience working with international company (US, Spain, Malta, Sweeden, Italy)
+<img src="./cover_01.jpg" alt="React, Node, Redux, Express Engineer">
 
-## I design and develop frontend architecture with a focus on user workflow, design system, scalability, security, code standards and maintainability.
-
-### I believe every client/products/team/project have different context and requirement and so I use my knowledge and experience to customize solutions and the development process to effectively reach our goals.
+## I love design and develop frontend architecture with a focus on user workflow, design system, scalability, security, code standards and maintainability.
 
 FAVORITE STACK:
 
@@ -14,16 +12,18 @@ DESIGN
 - Photoshop,
 - paper and pen (low budget)
 
-FRONTEND (functional programming, function composition)
+FRONTEND (functional programming, functions composition)
 
 - React/JSX/Hooks/context API
-- Redux/toolkit
+- Redux/toolkit/ Redux-thunk/saga
 - ES6/ES7
 - Material-UI
+- Scss, Less, Css3
+- Html5
 - Jest
 - Cypress
 - Axios
-- react-native
+- React-native
 
 BACKEND
 
