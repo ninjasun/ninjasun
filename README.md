@@ -1,6 +1,6 @@
 ### Hi, I'm Davide 👋
 
-<img src="./cover_01.jpg" alt="React, Node, Redux, Express Engineer">
+![](/cover-01.png)
 
 ## I love design and develop frontend architecture with a focus on user workflow, design system, scalability, security, code standards and maintainability.
 
