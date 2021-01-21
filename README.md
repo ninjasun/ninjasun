@@ -1,55 +1,29 @@
-### Hi, I'm Davide 👋
+## Hi, I'm Davide 👋
 
 ![](/cover-01.png)
 
-## I love design and develop frontend architecture with a focus on user workflow, design system, scalability, security, code standards and maintainability.
+### I like help people with their software products, especially when the mission is to make the world a better place. My approach always start listening, I will ask question until the problems it's clear and, if I can help, I will study and implement a solution with you.
 
-FAVORITE STACK:
+_Since the main focus should be to understand and satisfy the users needs/problems I demand to the people I work with to be onest and trasparent._
 
-DESIGN
+## Services:
 
-- Balsamiq,
-- Photoshop,
-- paper and pen (low budget)
+- #### design and develop SaaS
 
-FRONTEND (functional programming, functions composition)
+- #### design and develop Pwa, SPA
 
-- React/JSX/Hooks/context API
-- Redux/toolkit/ Redux-thunk/saga
-- ES6/ES7
-- Material-UI
-- Scss, Less, Css3
-- Html5
-- Jest
-- Cypress
-- Axios
-- React-native
+- #### design and develop prototype for startup/entrepenaur
 
-BACKEND
+- #### code refactor/migration from legacy code to React > 17
 
-- Node
-- Express
-- Sequelize 6
-- Mongosoe
+- #### code refactor/migration from React class to React hooks
 
-DB
+- #### UI, UX improvment appling system design
 
-- MySql/MySql Workbench
-- Mongo
+- #### front-end consultancy and code-review
 
-DEVOPS
+## Find more about me on the Web 🌎:
 
-- Git, Git flow and SmartGit
-- trello as Kanban board
-- Agile
-- AWS, S2, S3
-- Docker
-- Container
+- Follow me on <a href="https://www.linkedin.com/in/davide-mezzetti-6272a635/">Linkedin.</a> 💼
 
-INTEREST: GraphQL, Next.js, AWS, React-query, Vercel, Typescript.
-
-### Find more about me on the Web 🌎:
-
-- Follow me on <a href="https://www.linkedin.com/in/davide-mezzetti-6272a635/">Linkedin.</a> \*\*💼
-
-- Look at my portfolio on my <a href="https://www.linkedin.com/in/davide-mezzetti-6272a635/">website.</a> \*\*🚀
+- Get my contacts on my <a href="https://www.davidemezzetti.com">website.</a> 🚀
