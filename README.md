@@ -8,17 +8,17 @@ _Since the main focus should be to understand and satisfy the users needs/proble
 
 ## Services:
 
-- #### design and develop SaaS
+- #### design and develop SaaS web-app
 
 - #### design and develop Pwa, SPA
 
-- #### design and develop prototype for startup/entrepenaur
+- #### design and develop prototypes for startup/entrepenaur
 
 - #### code refactor/migration from legacy code to React > 17
 
 - #### code refactor/migration from React class to React hooks
 
-- #### UI, UX improvment appling system design
+- #### UI, UX improvment applying a design system
 
 - #### front-end consultancy and code-review
 
