@@ -1,10 +1,7 @@
 ## Hi, I'm Davide 👋
 
-![](/cover-01.png)
-
 ### I like to help people with their software products, especially when the mission is to make the world a better place. My approach always start listening, I will ask questions until the problems it's clear and, if I can help, I will study and implement a solution with you.
 
-_Since the main focus should be to understand and satisfy the users needs/problems, I demand, the people I work with, to be honest and transparent._
 
 ## Services:
 
